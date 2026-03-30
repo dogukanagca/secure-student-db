@@ -3,7 +3,7 @@
 A low-level, memory-efficient student record management system written in **C**. This project demonstrates core backend principles, including memory management, data encryption at rest, and database interoperability.
 
 ### 🚀 Key Features
-- **Low-Level Memory Management:** Utilizes C `struct`s and pointers for efficient data handling.
+- **Low-Level Memory Management:** Utilizes C `structs` and pointers for efficient data handling.
 - **Data Encryption at Rest:** Implements an XOR encryption algorithm to secure sensitive student records before saving them to the local disk.
 - **SQL Interoperability:** Features an export module that dynamically generates a `.sql` file containing `INSERT` statements, allowing seamless migration to relational databases (Oracle SQL / PostgreSQL).
 
